@@ -1,0 +1,2 @@
+def palin(s):
+    
